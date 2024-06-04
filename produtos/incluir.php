@@ -20,5 +20,5 @@
     mysqli_close($conexao)
 ?>
 <br><br>
-<input type=" button" onclick="window.location='formprodutos.html';" value="Voltar">
+<input type="button1" id="arroz" onclick="window.location='formprodutos.html';" value="Voltar">
 </body>
